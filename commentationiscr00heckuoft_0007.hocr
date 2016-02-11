@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentationiscr00heckuoft_0007.png"; bbox 0 0 1794 3340; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 303 1123 1070 1183">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 303 1123 1070 1183">
+     <span class='ocr_line' id='line_1_1' title="bbox 303 1123 1070 1183; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 303 1123 782 1183; x_wconf 72' lang='lat' dir='ltr'><strong>comnfflNTATlole</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 816 1123 1070 1180; x_wconf 73' lang='lat' dir='ltr'>GRn‘chE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 163 1511 1232 1590">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 163 1511 1232 1590">
+     <span class='ocr_line' id='line_1_2' title="bbox 163 1511 1232 1590; baseline -0.007 0"><span class='ocrx_word' id='word_1_3' title='bbox 163 1512 774 1590; x_wconf 67' lang='lat' dir='ltr'><strong>ANTHOLOQHA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 862 1511 1232 1584; x_wconf 70' lang='lat' dir='ltr'><strong>GRAECA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 436 1733 954 1777">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 436 1733 954 1777">
+     <span class='ocr_line' id='line_1_3' title="bbox 436 1733 954 1777; baseline -0.008 0"><span class='ocrx_word' id='word_1_5' title='bbox 436 1735 624 1777; x_wconf 72' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 696 1733 954 1775; x_wconf 68' lang='lat' dir='ltr'>valon.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
